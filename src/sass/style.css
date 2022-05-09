@@ -1,0 +1,64 @@
+.button {
+  margin: 3px;
+  width: 45px;
+  background: #606060;
+  color: #d0d0d0;
+  border-radius: 5px;
+  user-select: none;
+  transition-duration: 0.3s;
+}
+
+.button-2x {
+  width: 96px;
+}
+
+.button-3x {
+  width: 145.5px;
+}
+
+.button-space {
+  width: 348px;
+}
+
+.button-active {
+  background: #44559e;
+  box-shadow: inset 4px 4px 6px #283364, inset -4px -4px 6px #283364;
+  transition-property: box-shadow;
+  transition-duration: 0.2s;
+}
+
+h1, h2, h3 {
+  margin-top: 10px;
+  font-family: "Arial", serif;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background: aliceblue;
+  padding: 20px;
+}
+
+.container {
+  width: fit-content;
+  margin: auto;
+}
+.container .line {
+  display: flex;
+  height: 51px;
+}
+
+textarea {
+  padding: 10px;
+  display: block;
+  margin: 20px auto;
+  width: 62%;
+  height: 200px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,13 @@
+.button {
+  margin: 5px;
+  width: 40px;
+  background: #606060;
+  color: #d0d0d0;
+  border-radius: 5px;
+}
+
+.button-big {
+  width: 90px;
+}
+
+/*# sourceMappingURL=buttons.css.map */
