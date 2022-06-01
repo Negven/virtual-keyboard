@@ -2,7 +2,7 @@ import {buttonsValueUkrainian, buttonsValueEnglish} from "/src/data/data.js";
 import {createKeyboard} from "/src/script/createKeyboard.js";
 import {addEventListener} from "./script/addEventListener";
 import "./sass/style.sass";
-//add comment
+
 document.body.innerHTML += "<h1>Virtual Keyboard</h1>";
 document.body.innerHTML += "<textarea></textarea>";
 document.body.innerHTML += "<div class='container'></div>";

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54948a02-e94b-4f83-bbc8-63f88111e935" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/works for parflolio/RS/virtual-keyboard",
+    "last_opened_file_path": "C:/Users/super/Desktop/SSH/sshIdKey.pub",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -44,7 +45,7 @@
       <workItem from="1652280989499" duration="53000" />
       <workItem from="1652371519446" duration="40000" />
       <workItem from="1652515229231" duration="608000" />
-      <workItem from="1654064596986" duration="30000" />
+      <workItem from="1654064596986" duration="896000" />
     </task>
     <servers />
   </component>
