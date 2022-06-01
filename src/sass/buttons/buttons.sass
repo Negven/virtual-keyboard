@@ -1,0 +1,25 @@
+@import "../constants/constants"
+
+.button
+  margin: $margin-button
+  width: $width-button
+  background: $background-button
+  color: $letter-color
+  border-radius: $border-radius-button
+  user-select: none
+  transition-duration: 0.3s
+
+.button-2x
+  width: $width-button * 2 + 2 * $margin-button
+
+.button-3x
+  width: $width-button * 3.1 + 2 * $margin-button
+
+.button-space
+  width: $width-button * 7.6 + 2 * $margin-button
+
+.button-active
+  background: $background-button-active
+  box-shadow: inset 4px 4px 6px #283364, inset -4px -4px 6px #283364
+  transition-property: box-shadow
+  transition-duration: 0.2s
